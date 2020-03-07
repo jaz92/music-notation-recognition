@@ -1,5 +1,5 @@
 # Music notations recognition
-## Recognition of hand-written music notations supported by image processing methods
+#### Recognition of hand-written music notations supported by image processing methods
 
 ### Input image 1
 ![input1](img1.jpg?raw=true "input1")
