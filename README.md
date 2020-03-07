@@ -1,10 +1,10 @@
 # Music notations recognition
 Recognition of hand-written music notations supported by image processing methods
 
-Input image 1
-![input1](img1.jpg?raw=true "input1" | width=200)
+<p>Input image 1</p>
+![input1](img1.jpg?raw=true "input1") | width=200
 
-Result
+<p>Result</p>
 ![output1](img1_result.png?raw=true "output1")
 
 Input image 2
